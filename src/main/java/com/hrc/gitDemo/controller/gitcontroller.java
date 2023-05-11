@@ -6,6 +6,7 @@ public class gitcontroller {
         System.out.println("第三次版本");
         System.out.println("第四次版本");
         System.out.println("master test");
+        System.out.println("pull test");
         return null;
     }
 }
